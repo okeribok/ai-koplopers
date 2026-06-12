@@ -1,7 +1,3 @@
----
-title: AI-koploper raamwerk
-tags: publiek, rvb, koploperpakket
----
 # Het AI Koploper-raamwerk
 ## Een open standaard voor AI-adoptie in organisaties
 
