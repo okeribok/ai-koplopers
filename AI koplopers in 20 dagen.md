@@ -1,7 +1,3 @@
----
-title: AI koplopers in 20 dagen
-tags: publiek, rvb, koploperpakket
----
 # AI Koplopers in 20 Dagen
 ## Draaiboek voor een werkende adoptiestructuur
 
